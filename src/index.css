@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  button {
+    cursor: pointer;
+  }
+}
+
+@theme {
+  --color-whatsapp: #f5f1eb;
+}
